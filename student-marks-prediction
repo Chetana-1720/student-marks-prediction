@@ -1,4 +1,4 @@
-student_marks.py
+
 # Student Marks Prediction using Linear Regression
 
 import numpy as np
